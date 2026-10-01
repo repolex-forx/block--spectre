@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/spectre/commit/0b90c8569e4eab373d797501edece8e56a6885fb",
       "git:hexsha": "0b90c8569e4eab373d797501edece8e56a6885fb",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T08:07:52.544726+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/spectre/commit/b562b7bd9d36f2d3a98a843b13ece34bbef99463",
