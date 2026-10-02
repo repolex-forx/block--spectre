@@ -3,6 +3,11 @@
   "repo": "spectre",
   "versions": [
     {
+      "commit": "f18630479d5258d675406ba6e09d26a388e6e200",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:22:36.400298+00:00"
+    },
+    {
       "commit": "0b90c8569e4eab373d797501edece8e56a6885fb",
       "tag": "main",
       "parsed_at": "2026-10-01T08:07:59.480560+00:00"
