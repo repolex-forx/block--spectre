@@ -141,7 +141,7 @@
     {
       "@id": "https://repolex.ai/r/block/spectre/commit/f18630479d5258d675406ba6e09d26a388e6e200",
       "git:hexsha": "f18630479d5258d675406ba6e09d26a388e6e200",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
