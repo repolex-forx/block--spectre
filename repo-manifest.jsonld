@@ -137,6 +137,30 @@
       "git:hexsha": "1d46113c12526343541311c61556f195e6a6590f",
       "repolex:parseStatus": "pending",
       "git:tagName": "v0.9.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/block/spectre/commit/f18630479d5258d675406ba6e09d26a388e6e200",
+      "git:hexsha": "f18630479d5258d675406ba6e09d26a388e6e200",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "main"
+    },
+    {
+      "@id": "https://repolex.ai/r/block/spectre/commit/d871f740794ee696c2440457a72df01095843a72",
+      "git:hexsha": "d871f740794ee696c2440457a72df01095843a72",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.17.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/block/spectre/commit/edcd1fbd0d596ec544c823368e8b831f606f49dd",
+      "git:hexsha": "edcd1fbd0d596ec544c823368e8b831f606f49dd",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.18.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/block/spectre/commit/8661c0ef1aaf160e9fa1fda1aca044cbbbf78a67",
+      "git:hexsha": "8661c0ef1aaf160e9fa1fda1aca044cbbbf78a67",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.18.1"
     }
   ]
 }
