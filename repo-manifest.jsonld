@@ -141,8 +141,9 @@
     {
       "@id": "https://repolex.ai/r/block/spectre/commit/f18630479d5258d675406ba6e09d26a388e6e200",
       "git:hexsha": "f18630479d5258d675406ba6e09d26a388e6e200",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-02T10:22:36.399345+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/spectre/commit/d871f740794ee696c2440457a72df01095843a72",

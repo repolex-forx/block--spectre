@@ -625,7 +625,9 @@
           "githubUrl": "https://github.com/pelletier/go-toml",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/f18630479d5258d675406ba6e09d26a388e6e200/chunk-001.nq.gz",
+      "dep": "dep/f18630479d5258d675406ba6e09d26a388e6e200.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
